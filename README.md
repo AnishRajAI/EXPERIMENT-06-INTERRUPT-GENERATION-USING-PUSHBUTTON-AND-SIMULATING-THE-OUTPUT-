@@ -1,5 +1,7 @@
-# EXPERIMENT-08-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
-
+# EX 06 INTERRUPT GENERATION USING PUSHBUTTON AND SIMULATING THE OUTPUT
+### Name : ANISH RAJ P
+### Register no : 212222230010
+### Date of experiment : 06.11.2024
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
 
